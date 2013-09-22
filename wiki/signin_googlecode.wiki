@@ -6,7 +6,7 @@
 
 ==  ขั้นตอนวิธีการลงทะเบียนใช้งาน Google code ดังนี้ ==
  1.เริ่มต้นเราต้องมีชื่อผู้ใช้ของ Google ก่อน ซึ่งสามารถสมัครได้ฟรีที่ www.gmail.com 
-2.ทำการ login .ให้เรียบร้อยโดยใช้ Gmail <br/>
+ 2.ทำการ login .ให้เรียบร้อยโดยใช้ Gmail <br/>
 <img src="https://sdm53283.googlecode.com/issues/attachment?aid=10000000&name=A1.png&token=CjhHZAMbWRMYsXqmARRRE1Jwqok%3A1379840183144&inline=1" width='700' height='400'/><br/>
 
 
