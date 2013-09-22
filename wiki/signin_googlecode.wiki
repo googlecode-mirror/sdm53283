@@ -17,12 +17,5 @@
 4. กรอกรายละเอียดข้อมูลของโครงการ
 
 <img src="https://sdm53283.googlecode.com/issues/attachment?aid=30000000&name=A3.png&token=47zBKwEqkwm60DMznONocU1x6q4%3A1379841409379&inline=1" width='800' height='500'/><br/>
-
-
- 3. รหัสผ่านสาหรับ SVN จะเป็นส่วนที่ได้จากขั้นตอนด้านบนเพื่อนำไปใช้กับโปรแกรม SVN Client
- 
-
- = การใช้งาน Google Code SVN Server =
- การใช้งาน Google Code SVN Server ซึ่งจะต้องมีชื่อผู้ใช้งานอยู่ดังกล่าวข้างต้น จากนั้นมาสร้าง project ดังนี้
- 1.ไปที่ url ---> http://code.google.com เพื่อเป็นการเริ่มต้นการสร้าง project บน Google Code
- 2. เมื่อทำการ login เรียบร้อยแล้วให้คลิก “Create a project” 3. จากนั้นเริ่มให้ข้อมูลโครงการของเราว่า มีรายละเอียดอย่างไร 4. เมื่อทำการกรอกรายละเอียดเรียบร้อยแล้ว กด Create project 5. เราก็จะได้ project ที่จะใช้ในการทำงานบน Google Code SVN Server
+5. เมื่อทาการกรอกรายละเอียดเรียบร้อยแล้ว กด Create project
+6. จะได้ project ที่จะใช้ในการทางานบน Google Code SVN Server
