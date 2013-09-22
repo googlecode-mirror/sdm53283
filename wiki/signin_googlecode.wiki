@@ -18,4 +18,5 @@
 
 <img src="https://sdm53283.googlecode.com/issues/attachment?aid=30000000&name=A3.png&token=47zBKwEqkwm60DMznONocU1x6q4%3A1379841409379&inline=1" width='800' height='500'/><br/>
 5. เมื่อทาการกรอกรายละเอียดเรียบร้อยแล้ว กด Create project
+
 6. จะได้ project ที่จะใช้ในการทางานบน Google Code SVN Server
