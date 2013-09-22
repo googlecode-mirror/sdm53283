@@ -1,8 +1,9 @@
 #summary การติดตั้ง svn บน eclipse.
 
-= Introduction =
+= การติดตั้ง svn บน eclipse =
 
-Add your content here.
+=== ขั้นตอนวิธีการติดตั้ง SVN บน Eclipse ===
+1. เปิดโปรแกรม Eclipse ขึ้นมา
 
 
 = Details =
