@@ -14,9 +14,11 @@
 3. ไปยัง url http://code.google.com/hosting -------> แล้วให้คลิก “Create a project”
 
 <img src="https://sdm53283.googlecode.com/issues/attachment?aid=20000000&name=A2.png&token=IM-gKLgQrkOdZOjbcGY4I5U9jyU%3A1379840542566&inline=1" width='700' height='400'/><br/>
+4. กรอกรายละเอียดข้อมูลของโครงการ
+
+<img src="https://sdm53283.googlecode.com/issues/attachment?aid=30000000&name=A3.png&token=47zBKwEqkwm60DMznONocU1x6q4%3A1379841409379&inline=1" width='800' height='500'/><br/>
 
 
-แล้วให้คลิก “Create a project”
  3. รหัสผ่านสาหรับ SVN จะเป็นส่วนที่ได้จากขั้นตอนด้านบนเพื่อนำไปใช้กับโปรแกรม SVN Client
  
 
