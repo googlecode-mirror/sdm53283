@@ -9,7 +9,7 @@
 
 2.ทำการ login .ให้เรียบร้อยโดยใช้ Gmail
 
-<img src="https://sdm53283.googlecode.com/issues/attachment?aid=10000000&name=A1.png&token=CjhHZAMbWRMYsXqmARRRE1Jwqok%3A1379840183144&inline=1" width='700' height='400'/><br/>
+<img src="https://sdm53283.googlecode.com/svn/A1.png" width='700' height='400'/><br/>
 
 3. ไปยัง url http://code.google.com/hosting -------> แล้วให้คลิก “Create a project”
 
