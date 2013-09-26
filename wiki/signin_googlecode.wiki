@@ -13,12 +13,12 @@
 
 3. ไปยัง url http://code.google.com/hosting -------> แล้วให้คลิก “Create a project”
 
-<img src="https://sdm53283.googlecode.com/issues/attachment?aid=20000000&name=A2.png&token=IM-gKLgQrkOdZOjbcGY4I5U9jyU%3A1379840542566&inline=1" width='700' height='400'/><br/>
+<img src="https://sdm53283.googlecode.com/svn/A2.png" width='700' height='400'/><br/>
 4. กรอกรายละเอียดข้อมูลของโครงการ
 
-<img src="https://sdm53283.googlecode.com/issues/attachment?aid=30000000&name=A3.png&token=47zBKwEqkwm60DMznONocU1x6q4%3A1379841409379&inline=1" width='800' height='500'/><br/>
+<img src="https://sdm53283.googlecode.com/svn/A3.png" width='800' height='500'/><br/>
 5. เมื่อทาการกรอกรายละเอียดเรียบร้อยแล้ว กด Create project
 
 6. จะได้ project ที่จะใช้ในการทางานบน Google Code SVN Server
 
-<img src="https://sdm53283.googlecode.com/issues/attachment?aid=40000000&name=A4.png&token=slfXpTjVpKZZTROos4DRfvRDX6A%3A1379841774403&inline=1" width='900' height='500'/><br/>
+<img src="https://sdm53283.googlecode.com/svn/A4.png" width='900' height='500'/><br/>
