@@ -40,5 +40,3 @@
 9. กด Restart Eclipse เป็นอันว่าเสร็จการติดตั้ง SVN บน Eclipse
 
 
-
-
