@@ -11,11 +11,11 @@
 
 2. จะขึ้นหน้าต่าง Available Software ไปที่ Work With เลือกIndigo-_http://download.eclipse.org/releases/indigo_
 
-<img src="https://sdm53283.googlecode.com/svn/A7.png" width='600' height='400'/>
+<img src="https://sdm53283.googlecode.com/svn/install.png" width='600' height='400'/>
 
 3.เลือกรายการ Collaboration
 
-<img src="https://sdm53283.googlecode.com/svn/A8.png" width='500' height='600'/>
+<img src="https://sdm53283.googlecode.com/svn/colibration.png" width='500' height='600'/>
 
 4. เลือก Next 
 
@@ -25,18 +25,18 @@
 
 <img src="https://sdm53283.googlecode.com/svn/A10.png" width='500' height='500'/>
 
-6. เลือก Next 
+6. เลือก Next เพื่อติดตั้ง SVN
 
-<img src="https://sdm53283.googlecode.com/svn/A11.png" width='500' height='500'/>
-
-6. เลือก Next เพื่อเริ่มการตัดตั้ง SVN
+<img src="https://sdm53283.googlecode.com/svn/Next.png" width='500' height='500'/>
 
 7. เลือก accept เพื่อยอมรับข้อตกลง
 
-<img src="https://sdm53283.googlecode.com/svn/A12.png" width='500' height='500'/>
+<img src="https://sdm53283.googlecode.com/svn/Acept.png" width='500' height='500'/>
 
 8. รอจนกว่าจะติดตั้งเสร็จแล้ว จะขึ้นต่าง Restart Eclipse
 
+<img src="https://sdm53283.googlecode.com/svn/finish.png" width='500' height='500'/>
+
 9. กด Restart Eclipse เป็นอันว่าเสร็จการติดตั้ง SVN บน Eclipse
 
-
+<img src="https://https://sdm53283.googlecode.com/svn/restart.png" width='500' height='500'/>
