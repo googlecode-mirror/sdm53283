@@ -21,22 +21,18 @@
 
 <img src="https://sdm53283.googlecode.com/svn/A9.png" width='500' height='500'/>
 
-5. เลือกรายการ Subversive SVN Team Provider
-
-<img src="https://sdm53283.googlecode.com/svn/A10.png" width='500' height='500'/>
-
-6. เลือก Next เพื่อติดตั้ง SVN
+5. เลือก Next เพื่อติดตั้ง SVN
 
 <img src="https://sdm53283.googlecode.com/svn/Next.png" width='500' height='500'/>
 
-7. เลือก accept เพื่อยอมรับข้อตกลง
+6. เลือก accept เพื่อยอมรับข้อตกลง
 
 <img src="https://sdm53283.googlecode.com/svn/Acept.png" width='500' height='500'/>
 
-8. รอจนกว่าจะติดตั้งเสร็จแล้ว จะขึ้นต่าง Restart Eclipse
+7. รอจนกว่าจะติดตั้งเสร็จแล้ว จะขึ้นต่าง Restart Eclipse
 
 <img src="https://sdm53283.googlecode.com/svn/finish.png" width='500' height='500'/>
 
-9. กด Restart Eclipse เป็นอันว่าเสร็จการติดตั้ง SVN บน Eclipse
+8. กด Restart Eclipse เป็นอันว่าเสร็จการติดตั้ง SVN บน Eclipse
 
 <img src="https://https://sdm53283.googlecode.com/svn/restart.png" width='500' height='500'/>
