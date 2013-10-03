@@ -5,12 +5,13 @@
           SVN หรือ Subversion เป็นโปรแกรมโอเพนซอร์สที่ใช้ในการควบคุมรหัสโปรแกรม ที่ริเริ่มจัดทำโดยบริษัท CollabNet Inc. โดย SVN นี้พัฒนาต่อมาจากโปรแกรม CVS ที่มีมาก่อนหน้า และเพิ่มความสามารถต่างๆ เข้ามาจนปัจจุบันมีผู้ใช้เยอะขึ้นมาก และมีโปรแกรมที่สนับสนุนในการใช้มาก เช่น plug-in ของโปรแกรม Eclipse ทำให้การใช้ SVN ไม่ได้ยึดติดกับการใช้ส่วนติดต่อผู้ใช้แบบ Text mode เท่านั้น แต่ว่าสามารถใช้ GUI ต่างๆ เข้ามาช่วยได้
 
 === ขั้นตอนวิธีการติดตั้ง SVN บน Eclipse ===
-1. เปิดโปรแกรม Eclipse ขึ้นมา
+1. เปิดโปรแกรม Eclipse ขึ้นมา ไปที่ help แล้วเลือกที่ Install New Software
+
+<img src="https://sdm53283.googlecode.com/svn/A5.png" width='700' height='400'/>
+
+2. จะขึ้นหน้าต่าง Available Software ไปที่ Work With เลือกIndigo-_http://download.eclipse.org/releases/indigo_
+
+<img src="https://sdm53283.googlecode.com/svn/A7.png" width='700' height='400'/>
 
 
-= Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
