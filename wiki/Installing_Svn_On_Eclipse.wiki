@@ -11,7 +11,12 @@
 
 2. จะขึ้นหน้าต่าง Available Software ไปที่ Work With เลือกIndigo-_http://download.eclipse.org/releases/indigo_
 
-<img src="https://sdm53283.googlecode.com/svn/A7.png" width='700' height='400'/>
+<img src="https://sdm53283.googlecode.com/svn/A7.png" width='600' height='400'/>
 
+3.เลือกรายการ Collaboration
 
+<img src="https://sdm53283.googlecode.com/svn/A8.png" width='500' height='600'/>
 
+4. เลือก Next 
+
+<img src="https://sdm53283.googlecode.com/svn/A9.png" width='500' height='500'/>
