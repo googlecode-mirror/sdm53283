@@ -13,7 +13,7 @@
 
 <img src="https://sdm53283.googlecode.com/svn/install.png" width='600' height='400'/>
 
-3.เลือกรายการ Collaboration
+3.เลือกรายการ Collaboration เลือก Next
 
 <img src="https://sdm53283.googlecode.com/svn/colibration.png" width='500' height='600'/>
 
