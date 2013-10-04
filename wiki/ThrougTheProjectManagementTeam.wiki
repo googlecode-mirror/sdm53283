@@ -1,9 +1,106 @@
 #summary การจัดการโปรเจ็กต์ผ่านทีม เช่น การ check out, commit, update, compare, revert .
 
-                                                      = การจัดการโปรเจ็กต์ผ่านทีม =
+                                                                                               = การจัดการโปรเจ็กต์ผ่านทีม =
 
-          
+  การจัดการโปรเจ็กต์ผ่านทีม ประกอบด้วย การ check out, commit, update, compare, revert replace .         
 
                                           == การ Checkout ==
 
                 check out คือการดึงข้อมูลที่ได้แชร์แล้ว มาใส่ไว้บน Eclipes ในรูปแบบของโปรเจ็กต์ ที่สามารถจัดการได้เหมือนสร้างโปรเจกต์จาก Eclipes
+
+===ขั้นตอนการ  Checkout===
+
+1. เลือกโปรเจ็กต์ที่ต้องการ check out
+
+2. คลิกขวา > check out
+
+                                                         <img src="http://image.free.in.th/v/2013/il/131004035932.png" width='700' height='400'/>
+
+3. รอดาวน์โหลดข้อมูล     สามารถตรวจสอบได้โดยดูที่ Package Explorer
+
+                                                        <img src="http://image.free.in.th/v/2013/iy/131004050538.png" width='700' height='400'/>
+
+
+                                      == การ Commit ==
+
+        commit คือ คือการอัพโหลดไฟล์ที่แชร์ ใน โปรเจ็กต์ บน Eclipes ที่เราได้ check out มานั้น กลับคืนไปบน google code
+
+=== ขั้นตอนการ Commit ===
+
+1. เลือกไฟล์งานที่ต้องการ commit แล้วคลิกขวา > Team > Commit..
+
+
+                                                        <img src="http://image.free.in.th/v/2013/is/131004051330.png" width='700' height='400'/>
+
+
+2.  เมื่อเราคลิก commit เรียบร้อยแล้ว จะขึ้นหน้าต่างฟอร์มการ commit ซึ่งเราสามารถใส่คำอธิบายเกี่ยวกับงานที่ commit ได้  แล้วกด OK
+
+                                                      <img src="http://image.free.in.th/v/2013/is/131004051735.png" width='700' height='400'/>
+
+                                 == การ Update ==
+
+       การ Update คือการแก้ไขหรือเปลี่ยนแปลงโปรเจค
+
+=== ขั้นตอนการ  Update  ===
+
+1. เลือกไฟล์หรือโปรเจ็กต์ที่ต้องจะปรับปรุงข้อมูล คลิกขวา > Team > Commit.. รอดาวน์โหลดข้อมูล 
+
+                                                 <img src="http://image.free.in.th/v/2013/iv/131004052302.png" width='700' height='400'/>
+
+                                == การ Compare ==
+
+      การ compare เป็นการเปรียบเทียบงานของเรา ระหว่างงานที่แชร์กันของเราที่อยู่ บน google code กับ งานที่อยู่บนเครื่องของ ซึ่งจะเปรียบเทียบเป็นบรรทัดๆ
+
+===ขั้นตอนการ Compare ===
+
+1. คลิกขวาโปรเจคที่ต้องการ compare แล้วคลิกที่ CompareWith   >  Revision หรือ URL...
+
+                                                                        <img src="http://image.free.in.th/v/2013/it/131004052854.png" width='700' height='400'/>
+
+2. พิมพ์ URL แล้วคลิก OK
+
+                                                                       <img src="http://image.free.in.th/v/2013/iw/131004053334.png" width='700' height='400'/>
+
+รอสักครู่
+
+                                                                     <img src="http://image.free.in.th/v/2013/iy/131004053718.png" width='700' height='400'/>
+
+3. จะขึ้นหน้าต่างเพื่อเปรียบเทียบโค๊ดแต่ละบรรทัด
+
+                                                                     <img src="http://image.free.in.th/v/2013/ir/131004054010.png" width='700' height='400'/>
+
+
+                                                  == การ Revert ==
+
+             การ  revert คือ การย้อนกลับ เราสามารถเลือก version ที่จะย้อนกลับได้
+
+===ขั้นตอนการ  Revert ===
+
+1. คลิกขวาโปรเจ็กต์ที่ต้องทำการ Revert  เลือก Team -> Revert
+
+                                           <img src="http://image.free.in.th/v/2013/ic/131004054304.png" width='700' height='400'/>
+
+2. เลือกโปรเจคที่ต้องการ Revert แล้วคลิก OK
+
+                                         <img src="http://image.free.in.th/v/2013/is/131004060612.png" width='700' height='400'/>
+
+
+                                                      == การ Replace  ==
+
+             การ   Replace คือ การแทนที่โค๊ด
+
+===ขั้นตอนการ  Replace  ===
+
+1. คลิกขวาที่โปรเจ็กต์ที่ต้องการ Replace  > Replace with >   Revision or URL
+
+                                      <img src="http://image.free.in.th/v/2013/iz/131004061155.png" width='700' height='400'/>
+
+2. ใส่ URL แล้วเลือก  OK
+
+                                    <img src="http://image.free.in.th/v/2013/iw/131004061557.png" width='700' height='400'/>
+
+
+
+
+
+
