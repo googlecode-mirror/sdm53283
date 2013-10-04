@@ -11,26 +11,26 @@
 
 2. จะขึ้นหน้าต่าง Available Software ไปที่ Work With เลือก   Indigo - http://download.eclipse.org/releases/indigo
 
-<img src="http://sdm53283.googlecode.com/svn/Endingo.png" width='600' height='400'/>
+<img src="https://sdm53283.googlecode.com/svn/Endingo.png" width='600' height='400'/>
 
 3.เลือกรายการ Collaboration เลือก Next
 
-<img src="http://sdm53283.googlecode.com/svn/col.png" width='500' height='600'/>
+<img src="https://sdm53283.googlecode.com/svn/col.png" width='500' height='600'/>
 
 4. เลือก Subversion SVN Team Provider(Incubation) แล้วเลือก Next
 
-<img src="http://sdm53283.googlecode.com/svn/prov.png" width='500' height='600'/>
+<img src="https://sdm53283.googlecode.com/svn/prov.png" width='500' height='600'/>
 
 5. เลือก Next เพื่อติดตั้ง SVN
 
-<img src="http://sdm53283.googlecode.com/svn/NextInstal.png" width='500' height='500'/>
+<img src="https://sdm53283.googlecode.com/svn/NextInstal.png" width='500' height='500'/>
 
 6. เลือก accept เพื่อยอมรับข้อตกลง
 
-<img src="http://sdm53283.googlecode.com/svn/Accpt.png" width='500' height='500'/>
+<img src="https://sdm53283.googlecode.com/svn/Accpt.png" width='500' height='500'/>
 
 6. รอจนกว่าจะติดตั้งเสร็จแล้ว จะขึ้นต่าง Restart Eclipse
 
-<img src="http://sdm53283.googlecode.com/svn/wait.png" width='500' height='500'/>
+<img src="https://sdm53283.googlecode.com/svn/wait.png" width='500' height='500'/>
 
 7. กด Restart Eclipse เป็นอันว่าเสร็จการติดตั้ง SVN บน Eclipse
