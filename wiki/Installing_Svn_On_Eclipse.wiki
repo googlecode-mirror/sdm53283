@@ -35,4 +35,34 @@
 
           <img src="http://image.free.in.th/v/2013/ij/131004021855.png" width='500' height='500'/>
 
-7. กด Restart Eclipse เป็นอันว่าเสร็จการติดตั้ง SVN บน Eclipse
+7. กด Restart Eclipse และตั้งที่อยู่ของ workspace ใหม่ แล้วเลือก OK
+
+8. คลิกที่สัญลักษณ์ Open Perspective > Other
+
+         <img src="http://image.free.in.th/v/2013/im/131004091042.png"/>
+
+9. เลือก SVN Repository Exploring > OK 
+
+       <img src="http://image.free.in.th/v/2013/ik/131004091939.jpg"/>
+
+10. จะมีหน้าต่าง Install  ปรากฏขึ้น > Next 
+
+       <img src="http://image.free.in.th/v/2013/ik/131004091939.jpg"/>
+
+11. จะมีหน้าต่าง Install  Details ปรากฏขึ้นมา > Next 
+
+    <img src="http://image.free.in.th/v/2013/ik/131004092436.jpg"/>
+
+12.  จะปรากฏหน้าต่าง Install Review Licenses ขึ้นมา ให้คลิกเลือก I accept  > Finish 
+
+       <img src="http://image.free.in.th/v/2013/iq/131004092633.jpg"/>
+
+13. รอการติดตั้งจนเสร็จ จะปรากฏหน้าต่าง Restart Now > Restart Now เป็นการเสร็จสิ้นการติดตั้ง SVN บน Eclipts
+          
+        <img src="http://image.free.in.th/v/2013/iz/131004092853.jpg"/>
+
+
+
+
+
+
