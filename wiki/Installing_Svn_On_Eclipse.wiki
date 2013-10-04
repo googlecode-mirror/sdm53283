@@ -13,7 +13,7 @@
 
 2. จะขึ้นหน้าต่าง Available Software ไปที่ Work With เลือก   Indigo - http://download.eclipse.org/releases/indigo
 
-<img src="https://sdm53283.googlecode.com/svn/Endingo.png" width='600' height='400'/>
+<img src="http://image.free.in.th/v/2013/ig/131004023935.png" width='500' height='400'/>
 
 3.เลือกรายการ Collaboration เลือก Next
 
