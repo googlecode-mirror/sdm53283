@@ -1,13 +1,12 @@
 #summary การแชร์โปรเจ็กต์บน eclipse ผ่าน svn
 
-= Introduction =
+= การแชร์โปรเจ็กต์บน eclipse ผ่าน svn=
+          ===ขั้นตอนการแชร์โปรเจ็กต์บน eclipse ผ่าน svn ===
 
-Add your content here.
+1. เปิด Project ที่ต้องการแชร์ใน eclipse ที่มีการติดตั้ง svn
 
+2. โปรเจ็กต์คลิกขวา ไปที่ Team
 
-= Details =
+3. คลิก Team แล้วไปที่ Share Projects
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+<img src="https://sdm53283.googlecode.com/svn/shared.png" width='700' height='400'/>
