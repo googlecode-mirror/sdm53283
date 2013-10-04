@@ -1,0 +1,13 @@
+#summary การ upload ไฟล์เพื่อเผยแพร่ให้ download การกำหนดรายละเอียด การลบ
+
+= การ upload ไฟล์เพื่อเผยแพร่ให้ download =
+
+1. เปิดโปรเจ็กต์ขึ้นมา > download > new download
+
+     <img src="http://image.free.in.th/v/2013/is/131004093446.png" />
+
+2. กรอกข้อมูลเกี่ยวไฟล์ 
+
+    <img src="http://image.free.in.th/v/2013/iw/131004093954.png" />
+
+3. เลือก Submit file
