@@ -21,9 +21,11 @@
 
 2. ในส่วนของ Edit download กำหนดรายละเอียดที่ต้องการแก้ไข และคลิกปุ่ม Save changes เพื่อแก้ไขรายละเอียดไฟล์
 
-* Summary : ชื่อย่อของไฟล์
-* Description : รายละเอียดไฟล์
-* Labels : ป้ายชื่อ
+- Summary : ชื่อย่อของไฟล์
+
+- Description : รายละเอียดไฟล์
+
+- Labels : ป้ายชื่อ
 
 หรือ
 
@@ -35,6 +37,4 @@
 4. คลิกปุ่ม Delete download เพื่อยืนยันการลบ
 
 <img src="http://image.free.in.th/v/2013/ih/131007050552.png />
-
-
 
