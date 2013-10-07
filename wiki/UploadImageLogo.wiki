@@ -1,0 +1,16 @@
+#summary การอัพโหลดภาพที่จะใช้เป็นโลโก้ของโครงการของคุณ
+
+= การอัพโหลดภาพที่จะใช้เป็นโลโก้ของโครงการของคุณ =
+
+1. ไปที่หน้าโปรเจ็กต์ google code > ไปที่แถบ Administer > Project summary
+
+<img src="http://image.free.in.th/v/2013/ik/131007061318.png"/>
+
+2. เลื่อนลงไปที่ Custom project logo > เลือก Use the logo you upload > ทำการเลือกไฟล์
+
+<img src="http://image.free.in.th/v/2013/ie/131007061517.png"/>
+
+3.เลือกภาพที่ต้องการ แล้วคลิกเลือก save changes
+
+<img src="http://image.free.in.th/v/2013/iv/131007061805.png"/>
+
