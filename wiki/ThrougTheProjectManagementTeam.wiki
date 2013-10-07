@@ -10,15 +10,15 @@
 
 ===ขั้นตอนการ  Checkout===
 
-1. เลือกโปรเจ็กต์ที่ต้องการ check out
+1. คลิกเลือก SVN Reposit...
 
-2. คลิกขวา > check out
+2.  เลือกโปรเจ็กต์ที่ต้องการ check out  >  คลิกขวา > check out
 
-                                                         <img src="http://image.free.in.th/v/2013/il/131004035932.png" width='700' height='400'/>
+                                                         <img src="http://image.free.in.th/v/2013/il/131004035932.png"/>
 
 3. รอดาวน์โหลดข้อมูล     สามารถตรวจสอบได้โดยดูที่ Package Explorer
 
-                                                        <img src="http://image.free.in.th/v/2013/iy/131004050538.png" width='700' height='400'/>
+                                                        <img src="http://image.free.in.th/v/2013/iy/131004050538.png"/>
 
 
                                       == การ Commit ==
@@ -98,9 +98,6 @@
 2. ใส่ URL แล้วเลือก  OK
 
                                     <img src="http://image.free.in.th/v/2013/iw/131004061557.png" width='700' height='400'/>
-
-
-
 
 
 
