@@ -6,12 +6,12 @@
 
 1. ไปยังโปรเจกต์ของเรา บน Google code >  Project Home > People > add Member
 
-                                                                       <img src="http://image.free.in.th/v/2013/ig/131004073811.png" width='700' height='500'/>
+                                                                       <img src="http://image.free.in.th/v/2013/ig/131004073811.png"/>
 
 
 2. ใส่ Gmail ของสมาชิกที่เราต้องการเพิ่ม  พร้อมกับกำหนดสิทธิ์ 
 
-                                                                     <img src="http://image.free.in.th/v/2013/iy/131004074745.png" width='700' height='500'/>
+                                                                     <img src="http://image.free.in.th/v/2013/iy/131004074745.png"/>
 
    เลือกสิทธิ์เกี่ยวการจัดการโครงการ (สามารถแกไขได้ในภาพหลัง)
 
@@ -32,9 +32,7 @@
 
 2. เลือสมาขิกที่ต้องการลบ > Remove members เพื่อทำการลบสมาชืก
 
-                                                                       <img src="http://image.free.in.th/v/2013/it/131004080026.png" width='700' height='500'/>
-
-
+                                                                       <img src="http://image.free.in.th/v/2013/it/131004080026.png"/>
 
 
 
