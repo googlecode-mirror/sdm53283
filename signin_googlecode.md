@@ -1,0 +1,22 @@
+> # การลงทะเบียนใช้งาน google code #
+> > _Google Code_ คือบริการให้พื้นที่และระบบในการแบ่งปัน-จัดการชุดคำสั่งโปรแกรม เพื่อใช้ในการพัฒนาซอฟต์แวร์ภายในทีมของนักพัฒนานั้นๆ ผ่านเว็บ อีกทั้งยังมีความสามารถในการจัดเก็บไฟล์ที่ถูกแปลงเป็นไฟล์สำเร็จพร้อมใช้งานเพื่อความสะดวกต่อกลุ่มผู้ใช้งานทั่วไปด้วย
+
+
+## ขั้นตอนวิธีการลงทะเบียนใช้งาน Google code ดังนี้ ##
+1.เริ่มต้นเราต้องมีชื่อผู้ใช้ของ Google ก่อน ซึ่งสามารถสมัครได้ฟรีที่ www.gmail.com
+
+2.ทำการ login .ให้เรียบร้อยโดยใช้ Gmail
+
+<img src='https://sdm53283.googlecode.com/svn/A1.png' width='700' height='400' /><br />
+
+3. ไปยัง url http://code.google.com/hosting -------> แล้วให้คลิก “Create a project”
+
+<img src='https://sdm53283.googlecode.com/svn/A2.png' width='700' height='400' /><br />
+4. กรอกรายละเอียดข้อมูลของโครงการ
+
+<img src='https://sdm53283.googlecode.com/svn/A3.png' width='800' height='500' /><br />
+5. เมื่อทาการกรอกรายละเอียดเรียบร้อยแล้ว กด Create project
+
+6. จะได้ project ที่จะใช้ในการทางานบน Google Code SVN Server
+
+<img src='https://sdm53283.googlecode.com/svn/A4.png' width='900' height='500' /><br />

@@ -1,0 +1,54 @@
+# การติดตั้ง svn บน eclipse #
+
+> SVN หรือ Subversion เป็นโปรแกรมโอเพนซอร์สที่ใช้ในการควบคุมรหัสโปรแกรม ที่ริเริ่มจัดทำโดยบริษัท CollabNet Inc. โดย SVN นี้พัฒนาต่อมาจากโปรแกรม CVS ที่มีมาก่อนหน้า และเพิ่มความสามารถต่างๆ เข้ามาจนปัจจุบันมีผู้ใช้เยอะขึ้นมาก และมีโปรแกรมที่สนับสนุนในการใช้มาก เช่น plug-in ของโปรแกรม Eclipse ทำให้การใช้ SVN ไม่ได้ยึดติดกับการใช้ส่วนติดต่อผู้ใช้แบบ Text mode เท่านั้น แต่ว่าสามารถใช้ GUI ต่างๆ เข้ามาช่วยได้
+
+### ขั้นตอนวิธีการติดตั้ง SVN บน Eclipse ###
+1. เปิดโปรแกรม Eclipse ขึ้นมา ไปที่ help แล้วเลือกที่ Install New Software
+
+> <img src='http://image.free.in.th/v/2013/ia/131007040008.png' />
+
+2. จะขึ้นหน้าต่าง Available Software ไปที่ Work With เลือก   Kepler - http://download.eclipse.org/releases/kepler
+
+> <img src='http://image.free.in.th/v/2013/iy/131007040417.png' />
+
+3.เลือกรายการ Collaboration
+
+> <img src='http://image.free.in.th/v/2013/im/131007041317.png' />
+
+4. เลือก Subversion SVN Team Provider(Incubation) แล้วเลือก Next
+
+> <img src='http://image.free.in.th/v/2013/il/131004024439.png' />
+
+5. เลือก Next เพื่อติดตั้ง SVN
+
+> <img src='http://image.free.in.th/v/2013/ir/131004024634.png' />
+
+6. เลือก accept เพื่อยอมรับข้อตกลง > Finish
+
+> <img src='http://image.free.in.th/v/2013/iu/131004024718.png' />
+
+7. รอจนกว่าจะติดตั้งเสร็จแล้ว จะขึ้นต่าง Restart Eclipse
+
+> <img src='http://image.free.in.th/v/2013/ij/131004021855.png' />
+
+8. กด Restart Eclipse และตั้งที่อยู่ของ workspace ใหม่ แล้วเลือก OK
+
+9. คลิกที่สัญลักษณ์ Open Perspective > Other
+
+> <img src='http://image.free.in.th/v/2013/im/131004091042.png' />
+
+10. เลือก SVN Repository Exploring > OK
+
+> <img src='http://image.free.in.th/v/2013/ik/131004091939.jpg' />
+
+11. จะมีหน้าต่าง Install  Details ปรากฏขึ้นมา > Next
+
+> <img src='http://image.free.in.th/v/2013/ik/131004092436.jpg' />
+
+12.  จะปรากฏหน้าต่าง Install Review Licenses ขึ้นมา ให้คลิกเลือก I accept  > Finish
+
+> <img src='http://image.free.in.th/v/2013/iq/131004092633.jpg' />
+
+13. รอการติดตั้งจนเสร็จ จะปรากฏหน้าต่าง Restart Now > Restart Now เป็นการเสร็จสิ้นการติดตั้ง SVN บน Eclipts
+
+> <img src='http://image.free.in.th/v/2013/iz/131004092853.jpg' />
